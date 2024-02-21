@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}img{
+    margin-left: 80%;
+    width: 120px;
+    height: 150px;
+    border-radius: 100%;
+}video{
+    width: 300px;
+    height: 250px;
+}
+p{
+    font-size: medium;
+    font-weight: 300;
+    padding-left: 100px;
+    padding-top: -2px;
+    padding-bottom: -2px;
+    font-family: 'Times New Roman', Times, serif;
+}h1{
+    text-align: center;
+}h2{
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}h4{
+    margin-top: -100px;
+    margin-left: 80px;
+    color: rgb(0, 98, 255);
+}ul li{
+    margin-left: 130px;
+}.info{
+    border-bottom: 1px solid black;
+}
